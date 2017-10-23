@@ -1,2 +1,5 @@
-# demo-project
-This is a demo project I set up following along with a tutorial video.
+# Demo Project
+
+### With @JuliusR aka Forever Alone
+
+This repo is to pratice the GitHub flow in many ways! :tada:
